@@ -1,0 +1,6 @@
+c:\users\selinagabes\documents\visual studio 2015\Projects\POTW_3\POTW_3\bin\Debug\POTW_3.exe.config
+c:\users\selinagabes\documents\visual studio 2015\Projects\POTW_3\POTW_3\bin\Debug\POTW_3.exe
+c:\users\selinagabes\documents\visual studio 2015\Projects\POTW_3\POTW_3\bin\Debug\POTW_3.pdb
+c:\users\selinagabes\documents\visual studio 2015\Projects\POTW_3\POTW_3\obj\Debug\POTW_3.csprojResolveAssemblyReference.cache
+c:\users\selinagabes\documents\visual studio 2015\Projects\POTW_3\POTW_3\obj\Debug\POTW_3.exe
+c:\users\selinagabes\documents\visual studio 2015\Projects\POTW_3\POTW_3\obj\Debug\POTW_3.pdb
